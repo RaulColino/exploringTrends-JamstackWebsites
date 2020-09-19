@@ -11,13 +11,13 @@
         </div>
         <ul class="flex items-center">
           <li class="ml-8">
-            <a href="#">A</a>
+            <a href="#">LINK 1</a>
           </li>
           <li class="ml-8">
-            <a href="#">A</a>
+            <a href="#">LINK 2</a>
           </li>
           <li class="ml-8">
-            <a href="#">A</a>
+            <a href="#">LINK 3</a>
           </li>
         </ul>
       </div>
@@ -58,17 +58,17 @@
 
 #page-container {
   position: relative;
-  min-height: 100vh;
+  min-height: 10vh;
 }
 
 #content-wrap {
-  padding-bottom: 2.5rem; /* Footer height */
+  padding-bottom: 10.5rem; /* Footer height */
 }
 
 #footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 2.5rem; /* Footer height */
+  height: 0.5rem; /* Footer height */
 }
 </style>

@@ -2,7 +2,7 @@
 the content. A layout usually contains Header & Footer. -->
 
 <template>
-  <div class="dark:bg-black">
+  <div>
     <navbar/>
     <slot/>
     <v-footer/>
