@@ -2,7 +2,7 @@
   <Layout>
     
      <!--article header-->
-    <div class="text-center pb-10 pt-24 md:pt-32">
+    <div class="text-center pb-10 pt-32 md:pt-40">
       <!--Title-->
       <h1 class="font-bold text-gray-800 break-normal text-3xl md:text-5xl">
         {{ $page.projects.title }}

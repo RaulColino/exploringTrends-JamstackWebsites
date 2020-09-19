@@ -33,6 +33,7 @@ module.exports = function (api) {
         thumbnail: project.image.formats.thumbnail.url,
         image: project.image.formats.small.url,
         description: project.description,
+        categories: project.categories,
       })
     }
   })
