@@ -9,9 +9,8 @@
       >
         <!-- image -->
         <g-image
-          :src="`http://localhost:1337${project.thumbnail}`"
+          :src="`http://localhost:1337${project.image}`"
           :alt="project.title"
-          height="300px"
           class="h-full w-full rounded-t pb-6 align-end"
         />
 

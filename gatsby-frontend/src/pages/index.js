@@ -47,13 +47,13 @@ const IndexPage = () => (
             <p className="mb-4">
               {/* for external pages dont use gatsby-image but <a> elements */}
               <a
-                className="mr-4 text-purple-700 hover:underline"
+                className="mr-4 text-purple-600 hover:underline"
                 href="https://www.gatsbyjs.com/docs"
                 target="_blank"
                 rel="noopener"
               >Gatsby Docs</a>
               <a
-                className="mr-4 text-purple-700 hover:underline"
+                className="mr-4 text-purple-600 hover:underline"
                 href="https://github.com/gatsbyjs/gatsby"
                 target="_blank"
                 rel="noopener"
