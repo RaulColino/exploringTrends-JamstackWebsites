@@ -36,10 +36,10 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
         
-        <footer>
-          © {new Date().getFullYear()}, Built with
+        <footer class="pt-16 lg:pb-6 lg:pt-24">
+          © {new Date().getFullYear()}, Made by
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <a href="#">Raul CS</a>
         </footer>
       </div>
     </>

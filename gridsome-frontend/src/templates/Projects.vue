@@ -23,7 +23,7 @@
     />
 
     <!--container-->
-    <div class="relative container max-w-5xl mx-auto -mt-32">
+    <div class="relative container max-w-5xl mx-auto -mt-20">
       <div class="mx-0 sm:mx-6">
         <div
           class="bg-white rounded p-8 md:p-24 text-xl md:text-2xl text-gray-800 leading-normal shadow-md m-5"

@@ -12,7 +12,7 @@
           :src="`http://localhost:1337${project.thumbnail}`"
           :alt="project.title"
           height="300px"
-          class="rounded-t pb-6 align-end"
+          class="h-full w-full rounded-t pb-6 align-end"
         />
 
         <!-- title,date,categories-->

@@ -7,14 +7,14 @@ function Example() {
 
     //in JSX const = variable
     //we use hooks to style the navbar
-    const [scrolled, setScrolled] = useState("z-10 sticky flex w-full bg-transparent border-b-0 items-center justify-between flex-wrap px-4 py-2 m-auto top-0 animated ");
+    const [scrolled, setScrolled] = useState("sticky flex w-full bg-transparent border-b-0 items-center justify-between flex-wrap px-4 py-2 m-auto top-0 animated ");
 
     window.addEventListener('scroll', () => {
         const isTop = window.scrollY < 100;
         if (isTop !== true) {
-            setScrolled("bg-white shadow-2xl sticky flex w-full border-b-0 items-center justify-between flex-wrap px-4 py-2 m-auto top-0 animated")
+            setScrolled("z-10 bg-white shadow-2xl sticky flex w-full border-b-0 items-center justify-between flex-wrap px-4 py-2 m-auto top-0 animated")
         } else {
-            setScrolled("z-10 sticky flex w-full bg-transparent border-b-0 items-center justify-between flex-wrap px-4 py-2 m-auto top-0 animated ")
+            setScrolled("sticky flex w-full bg-transparent border-b-0 items-center justify-between flex-wrap px-4 py-2 m-auto top-0 animated ")
         }
     })
 

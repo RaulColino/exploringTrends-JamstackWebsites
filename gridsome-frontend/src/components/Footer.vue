@@ -6,7 +6,7 @@
     <footer id="footer">
       <div class="container bottom-0 mx-auto flex items-center justify-between py-8 px-8">
         <div>
-          Copyright © {{ new Date().getFullYear() }}. Made by
+           © {{ new Date().getFullYear() }}. Made by
           <a href="//#">Raul CS</a>
         </div>
         <ul class="flex items-center">
