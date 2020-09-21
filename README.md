@@ -4,7 +4,7 @@ Creating a Jamstack portfolio (Actually two :D).
 Testing and comparing two different frameworks: - Gridsome vs Gatsby- 
 Connecting them to a Strapi headless CMS.
 
-## Relevant technologies used in this project:
+## Relevant technologies used in this project
 - React
 - Vue
 - Gatsby
@@ -19,8 +19,8 @@ Two minimalistic & hackable starters to create a portfolio with a CMS to publish
 
 
 <p>
- <img src="/gridsome-main-page-screenshot.png" alt="gridsome main page" height="509" width="473"> 
- <img src="/gatsby-project-page-screenshot.png" alt="a gatsby project page" height="509" width="473">
+<img src="/gridsome-main-page-screenshot.png" alt="gridsome main page" height="509" width="473"> 
+<img src="/gatsby-project-page-screenshot.png" alt="a gatsby project page" height="509" width="473">
 </p>
 <!--
 <img src="/gridsome-main-page-screenshot.png"  height="500" width="500" >  |  <img src="/gatsby-project-page-screenshot.png" height="500" width="500">
@@ -82,13 +82,19 @@ npm run develop
 
 **Strapi CMS is running here => [http://localhost:1337/admin](http://localhost:1337/admin)**
 
-## References: 
+## References
 https://gridsome.org/docs/
+
 https://www.gatsbyjs.com/docs/tailwind-css/
+
 https://strapi.io/blog/build-a-static-blog-with-gatsby-and-strapi
+
 https://www.youtube.com/watch?v=vB6rmWCmANA
+
 https://www.youtube.com/watch?v=ZNFY8auhtcI
+
 https://www.gatsbyjs.com/docs/debugging-cache-issues/
 
-
+## Credits to
+Russell Heimlich fo the [image generator](https://github.com/kingkool68/dummyimage)
 
