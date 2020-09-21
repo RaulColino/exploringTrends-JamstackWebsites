@@ -25,9 +25,9 @@ Two minimalistic & hackable starters to create a portfolio with a CMS to publish
 - Near 100, 100, 100, 100 score on Google Lighthouse.
 - Main page and dynamic page generation for each project created.
 
-## How to setup the project and try it locally
+## Setup the project locally
 
-**1.Clone the repository**
+**1. Clone the repository**
 
 ```
 git clone https://github.com/RaulColino/exploringTrends-JamstackWebsites.git
