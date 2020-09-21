@@ -59,6 +59,7 @@ Go to the gatsby-frontend folder, open a terminal an run:
 npm install
 npm run develop
 ```
+
 **Gatsby is running here => [http://localhost:8000](http://localhost:8000)**
 
 **Gridsome is running here => [http://localhost:8080](http://localhost:8080)**
