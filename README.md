@@ -1,8 +1,8 @@
 # ExploringTrends: Jamstack Websites
 This project is about trying out some of the latest trends in web development by:
-Creating a Jamstack portfolio (Actually two :D). 
-Testing and comparing two different frameworks: - Gridsome vs Gatsby- 
-Connecting them to a Strapi headless CMS.
+- Creating a Jamstack portfolio (Actually two :D). 
+- Testing and comparing two different frameworks: - Gridsome vs Gatsby- 
+- Connecting them to a Strapi headless CMS.
 
 ## Relevant technologies used in this project
 - React
