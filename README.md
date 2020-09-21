@@ -1,4 +1,4 @@
-# ExploringTrends: Creating Jamstack Websites
+# ExploringTrends: Jamstack Websites
 This project is about trying out some of the latest trends in web development by:
 Creating a Jamstack portfolio (Actually two :D). 
 Testing and comparing two different frameworks: - Gridsome vs Gatsby- 
