@@ -76,11 +76,11 @@ npm install
 npm run develop
 ```
 
-**Gatsby is running here => [http://localhost:8000](http://localhost:8000)**
+Gatsby is running here: [http://localhost:8000](http://localhost:8000)
 
-**Gridsome is running here => [http://localhost:8080](http://localhost:8080)**
+Gridsome is running here: [http://localhost:8080](http://localhost:8080)
 
-**Strapi CMS is running here => [http://localhost:1337/admin](http://localhost:1337/admin)**
+Strapi CMS is running here: [http://localhost:1337/admin](http://localhost:1337/admin)
 
 ## References
 https://gridsome.org/docs/
