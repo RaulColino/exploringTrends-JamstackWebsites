@@ -31,7 +31,6 @@ Two minimalistic & hackable starters to create a portfolio with a CMS to publish
 
 ```
 git clone https://github.com/RaulColino/exploringTrends-JamstackWebsites.git
-cd portfolio
 ```
 
 **2. Run the backend**
