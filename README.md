@@ -89,11 +89,9 @@ https://www.gatsbyjs.com/docs/tailwind-css/
 
 https://strapi.io/blog/build-a-static-blog-with-gatsby-and-strapi
 
-https://www.youtube.com/watch?v=vB6rmWCmANA
-
-https://www.youtube.com/watch?v=ZNFY8auhtcI
-
 https://www.gatsbyjs.com/docs/debugging-cache-issues/
+
+https://graphql.org/learn/
 
 ## Credits to
 Russell Heimlich fo the [image generator](https://github.com/kingkool68/dummyimage)
