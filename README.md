@@ -19,8 +19,8 @@ Two minimalistic & hackable starters to create a portfolio with a CMS to publish
 
 
 <p>
-<img src="/gridsome-main-page-screenshot.png" alt="gridsome main page" height="509" width="473"> 
-<img src="/gatsby-project-page-screenshot.png" alt="a gatsby project page" height="509" width="473">
+<img src="/gridsome-main-page-screenshot.png" alt="gridsome main page" height="509" width="472"> 
+<img src="/gatsby-project-page-screenshot.png" alt="a gatsby project page" height="509" width="472">
 </p>
 <!--
 <img src="/gridsome-main-page-screenshot.png"  height="500" width="500" >  |  <img src="/gatsby-project-page-screenshot.png" height="500" width="500">
