@@ -15,7 +15,7 @@ This project is about trying out some of the latest trends in web development by
 
 ## The result
 
-Two minimalistic & hackable starters to create a portfolio with a CMS to publish your content in Markdown.
+Two minimalistic and hackable starters to create a portfolio with a CMS to publish your content in Markdown.
 
 
 <p>
