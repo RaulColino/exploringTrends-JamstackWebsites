@@ -38,7 +38,7 @@ Two minimalistic and hackable starters to create a portfolio with a CMS to publi
 - UI easy to customize with TailwindCSS.
 - Publish your content out of the box with the defined schema or customize all to your preference.
 - Responsive design.
-- Superfast loading of images and link prefetching.
+- Superfast image loading and link prefetching.
 - Near 100, 100, 100, 100 score on Google Lighthouse.
 - Main page and dynamic page generation for each project created.
 
