@@ -82,6 +82,8 @@ Gridsome is running here: [http://localhost:8080](http://localhost:8080)
 
 Strapi CMS is running here: [http://localhost:1337/admin](http://localhost:1337/admin)
 
+Example admin: ```raul colino``` ```mail@example.com```  ```12345Abc```
+
 ## References
 https://gridsome.org/docs/
 
